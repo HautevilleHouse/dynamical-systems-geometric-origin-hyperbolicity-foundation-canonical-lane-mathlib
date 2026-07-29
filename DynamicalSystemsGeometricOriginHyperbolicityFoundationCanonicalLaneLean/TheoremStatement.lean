@@ -1,0 +1,12 @@
+import HautevilleHouse.DynamicalSystemsGeometricOriginHyperbolicityFoundationCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace DynamicalSystemsGeometricOriginHyperbolicityFoundationCanonicalLaneLean
+
+theorem theorem_specific_endgame_pilot_closed :
+    ∀ A : AdmissibleClass, ConstrainedHyperbolicityClosure A := by
+  intro A
+  exact constrained_hyperbolicity_endgame A
+
+end DynamicalSystemsGeometricOriginHyperbolicityFoundationCanonicalLaneLean
+end HautevilleHouse
